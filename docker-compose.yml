@@ -1,0 +1,3 @@
+# Optional local development services can be added in later phases.
+# Docker is not required to run the frontend or backend.
+services: {}
