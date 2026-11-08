@@ -30,7 +30,7 @@ services:
         value: "google_drive"
 
       - key: PHOTO_STORAGE_LOCAL_PATH
-        value: "/opt/render/project/src/storage-data
+        value: "/opt/render/project/src/storage-data"
 
       - key: JWT_ALGORITHM
         value: "HS256"
